@@ -1,2 +1,2 @@
 # GorgonOS
-Operating System for PC/Handheld
+Operating System for PC and Handheld Game Console
