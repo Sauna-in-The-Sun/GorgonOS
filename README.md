@@ -1,2 +1,2 @@
 # GorgonOS
-Operating System for PC and Handheld Game Console
+Ubuntu-Based Operating System for Gaming and Developer
