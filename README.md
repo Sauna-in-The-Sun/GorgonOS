@@ -26,7 +26,7 @@ Powered by Linux Kernel (Ubuntu-Based)
 -  **User-Friendly UI**
   - Cinnamon Desktop with Windows-like layout
   - Dark/Light theme switching
-  - Custom Gorgon Control Center
+  - Gorgon Control Center
 
 - **Security Focused**
   - Full-disk encryption (LUKS)
